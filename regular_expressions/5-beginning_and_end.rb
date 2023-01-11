@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-RGV[0].scan(/\Ah.n\z/).join
+RGV[0].scan(/h.n/).join
